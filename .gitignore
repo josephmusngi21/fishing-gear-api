@@ -3,3 +3,10 @@
 
 #plan.txt
 /plan.txt
+
+# Directory README files
+src/models/README.txt
+src/resolvers/README.txt
+src/typeDefs/README.txt
+src/utils/README.txt
+src/config/README.txt
